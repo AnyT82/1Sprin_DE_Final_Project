@@ -1,0 +1,4 @@
+# запускат каждый день с понедельника по пятницу в 4:01  скрипт для сохранения 
+# новых данных и создания витрин
+
+1 4 * * 1-5 /home/anatoliy/prog 1sprint-de-final-project-data-ETL-layer-incremental.py
