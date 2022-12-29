@@ -120,4 +120,5 @@ IDE: jupyter notebook,
 ER диаграмма  
 [![ER diagram](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")
 
-
+Витрина инструментов  
+[![data mart](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")
