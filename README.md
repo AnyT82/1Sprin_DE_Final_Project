@@ -117,10 +117,10 @@ IDE: jupyter notebook,
 - объединяет таблицы с финансовыми инструментами и значениями для витрины,
 На выходе получается витрина, содержащая заданные параметры финансового инструмента.
 
-	ER диаграмма  
+	ER диаграмма
 
 [![ER diagram](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")
 
-	Витрина инструментов 
+	Витрина инструментов
 	
 [![data mart](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")
