@@ -83,7 +83,7 @@ IDE: jupyter notebook,
 2. ETL процесс
 
 Суть ETL процесса представлена на рисунке
-[![ETL process](http://media5.cdnbase.com/media/uploads/file-2/ETL-process.png "ETL process")](http://media5.cdnbase.com/media/uploads/file-2/ETL-process.png "ETL process")
+[![ETL process](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/ETL-process.png "ETL process")](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/ETL-process.png "ETL process")
  
 	2.1. Извлечения данных
 	
