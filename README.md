@@ -62,7 +62,7 @@ IBM Db2 on Cloud
 IDE: jupyter notebook,
 Язык программирования: Phyton 3.9
 
-[![Схема архитектуры](http://media5.cdnbase.com/media/uploads/file-2/schem1.png "Схема архитектуры")](http://media5.cdnbase.com/media/uploads/file-2/schem1.png "Схема архитектуры")
+[![Схема архитектуры](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/schem1.png "Схема архитектуры")](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/schem1.png "Схема архитектуры")
 
 **Обоснование выбора**
 
@@ -120,8 +120,8 @@ IDE: jupyter notebook,
 
 	ER диаграмма
 
-[![ER diagram](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")](http://media5.cdnbase.com/media/uploads/file-2/ER-diagram1.png "ER diagram")
+[![ER diagram](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/ER-diagram1.png "ER diagram")](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/ER-diagram1.png "ER diagram")
 
 	Витрина инструментов
 	
-[![data mart](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")](http://media5.cdnbase.com/media/uploads/file-2/data_mart.jpg "data mart")
+[![data mart](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/data_mart.jpg "data mart")](https://github.com/AnyT82/1TSprint_DE_Final_Project/blob/main/img/data_mart.jpg "data mart")
